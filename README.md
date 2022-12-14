@@ -1,4 +1,9 @@
-### Hi there 👋 My Name IS Minjoon Lee
+### Hi there 👋 I'M Minjoon Lee
+
+
+
+
+
 
 <h2 align = "center"> Tech Stack <h2>
 
