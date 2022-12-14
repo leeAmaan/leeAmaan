@@ -1,5 +1,6 @@
 ### Hi there 👋 I'M Minjoon Lee
-
+### I’m currently learning backend engineering like    
+### I'm iterested in python, java, psql and etc..  if you contact me please send me email leedazare@gmail.com  
 
 
 
