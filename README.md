@@ -2,7 +2,7 @@
 ### I’m currently learning backend engineering like    
 ### I'm iterested in python, java, psql and etc..  if you contact me please send me email leedazare@gmail.com  
 
-
+[![Minjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeAmaan)](https://github.com/leeAmaan/github-readme-stats)
 
 
 
