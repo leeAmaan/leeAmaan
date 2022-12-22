@@ -3,7 +3,7 @@
 ### I'm iterested in python, java, psql and etc..  if you contact me please send me email leedazare@gmail.com  
 
 [![Minjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeAmaan)](https://github.com/leeAmaan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeAmaan)](https://github.com/leeAmaan/github-readme-stats)
 
 
 <h2 align = "center"> Tech Stack <h2>
